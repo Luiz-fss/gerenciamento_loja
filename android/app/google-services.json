@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "451250174310",
+    "firebase_url": "https://loja-virtual-fluter.firebaseio.com",
+    "project_id": "loja-virtual-fluter",
+    "storage_bucket": "loja-virtual-fluter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451250174310:android:47fcbb6210ee35e69bf0a7",
+        "android_client_info": {
+          "package_name": "br.com.luizfernando.gerenciamentolojavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451250174310-1tjvmh4ps89md8sdkfjt2ub8b91jdtqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKAsEzt6VSMUUXXmVD_YhtI_jBP2xfvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451250174310-1tjvmh4ps89md8sdkfjt2ub8b91jdtqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451250174310:android:24e23bbd11b48c239bf0a7",
+        "android_client_info": {
+          "package_name": "br.com.luizfernando.lojavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451250174310-1tjvmh4ps89md8sdkfjt2ub8b91jdtqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKAsEzt6VSMUUXXmVD_YhtI_jBP2xfvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451250174310-1tjvmh4ps89md8sdkfjt2ub8b91jdtqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
